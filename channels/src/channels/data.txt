@@ -1,0 +1,55 @@
+123
+45
+REP 2
+REP 3
+THISIS 4
+REP 5
+TO 1
+TO 1
+TO 1
+GARBLED
+TO 1
+TO 1
+TO 1
+TO 1
+REP 2
+Why wouldn't you increase the transmission power, so that I can hear what you are saying?
+TO 1
+REP 2
+REP 3
+THISIS UNREADABLE
+REP 5
+TO 1
+TO 1
+TO 1
+TO 1
+TO 1
+TO 1
+TO 1
+TO 1
+REP 2
+REP 3
+TO 1
+REP 2
+REP 3
+THISIS 4
+REP 5
+TO 1
+TO 1
+TO 1
+TO 1
+TO 1
+TO 1
+REP 2
+REP 3
+TO 1
+REP 2
+REP 3
+THISIS 4
+REP 5
+
+Output:
+true 
+OR 
+false garbled reception
+

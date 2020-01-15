@@ -1,0 +1,8 @@
+.DS_Store
+.idea/*
+*.class
+report/*
+build/*
+lib/*
+Gone.iml
+out/*
